@@ -1,3 +1,3 @@
 install.packages("readr")
 install.packages("dplyr")
-install.packages(c("tidyverse", "downloader"))
+install.packages(c("tidyverse", "downloader", "pdftools"))
