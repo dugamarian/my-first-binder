@@ -5,4 +5,4 @@ install.packages("downloader")
 install.packages("caret")
 install.packages("klaR")
 install.packages("UsingR")
-
+install.packages("sgd")
