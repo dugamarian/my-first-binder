@@ -1,3 +1,3 @@
 r-2022-01-09
-conda install poppler poppler-qt
+
 
