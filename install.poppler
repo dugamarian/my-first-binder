@@ -1,1 +1,2 @@
 conda install -c conda-forge poppler 
+conda install r-pdftools
