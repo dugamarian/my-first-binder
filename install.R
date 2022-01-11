@@ -1,3 +1,6 @@
+conda config --add channels conda-forge
+conda config --set channel_priority strict
+conda install r-pdftools
 install.packages("readr")
 install.packages("dplyr")
 install.packages("tidyverse")
